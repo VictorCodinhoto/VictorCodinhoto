@@ -12,11 +12,13 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWrRlRHrGxjXPvbGrkGFChBvFLsrCKFZRTfLFpRwTRmVpzMCHMLbWPmDCjNNcvrnRpxhdtqWv)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorCodinhoto/VictorCodinhoto/edit/main/README.md)
 
+
 ##
 
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCodinhoto&show_icons=true&theme=neon)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VictorCodinhoto&theme=neon&hide_border=true&border_radius=6.5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=505&card_height=199)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCodinhoto&show_icons=true&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
