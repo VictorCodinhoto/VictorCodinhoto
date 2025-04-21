@@ -1,8 +1,8 @@
 ### Opa, sou Victor Codinhoto Batista! 😃
 
-### Atualmente estou estudando no Instituto Mauá de Tecnologia!
+### Atualmente estou estudando no Instituto Mauá de Tecnologia e trabalhando na Leroy Merlin!
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFuZXJseWhmMDg2czA2NHh6djBtb2NpdXVucDdlcm9va3pnbnpmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+  <img src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFuZXJseWhmMDg2czA2NHh6djBtb2NpdXVucDdlcm9va3pnbnpmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif](https://www.pngwing.com/pt/free-png-akqqx)" width="100"/>
 </div>
 
 ## Minhas redes sociais:
