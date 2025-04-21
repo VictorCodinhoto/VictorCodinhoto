@@ -2,7 +2,8 @@
 
 ### Atualmente estou estudando no Instituto Mauá de Tecnologia e trabalhando na Leroy Merlin!
 <div id="header" align="center">
-  <img src="[[https://www.pngwing.com/pt/free-png-akqqx](https://www.leroymerlin.com.br/)](https://avatars.githubusercontent.com/u/4422202?s=200&v=4)" width="100"/>
+  ![Leroy Merlin Logo SVG](https://worldvectorlogo.com/logos/leroy-merlin.svg)
+
 </div>
 
 ## Minhas redes sociais:
