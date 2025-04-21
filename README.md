@@ -2,7 +2,7 @@
 
 ### Atualmente estou estudando no Instituto Mauá de Tecnologia e trabalhando na Leroy Merlin!
 <div id="header" align="center">
-  <img src="https://www.pngwing.com/pt/free-png-akqqx" width="100"/>
+  <img src="[https://www.pngwing.com/pt/free-png-akqqx](https://www.leroymerlin.com.br/)" width="100"/>
 </div>
 
 ## Minhas redes sociais:
