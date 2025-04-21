@@ -3,7 +3,7 @@
 ### Atualmente estou estudando no Instituto Mauá de Tecnologia e trabalhando na Leroy Merlin!
 <div id="header" align="center">
   
-![Leroy Merlin]((https://worldvectorlogo.com/logos/leroy-merlin.svg))
+![Leroy Merlin](https://worldvectorlogo.com/logos/leroy-merlin.svg)
 
 </div>
 
