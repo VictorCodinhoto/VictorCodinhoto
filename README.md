@@ -20,7 +20,7 @@
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCodinhoto&show_icons=true&theme=neon)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VictorCodinhoto&theme=neon&hide_border=true&border_radius=6.5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=505&card_height=199)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCodinhoto&show_icons=true&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCodinhoto&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ##
 
