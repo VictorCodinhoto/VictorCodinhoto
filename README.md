@@ -18,9 +18,9 @@
 ##
 
 
-[![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCodinhoto)](https://github.com/VictorCodinhoto/github-readme-stats)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VictorCodinhoto&theme=neon&hide_border=true&border_radius=6.5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=505&card_height=199)](https://git.io/streak-stats)
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCodinhoto&show_icons=true&theme=radical)
+
 
 ##
 
