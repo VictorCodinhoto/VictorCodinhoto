@@ -19,7 +19,7 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=VictorCodinhoto&theme=radical&hide_border=true&border_radius=5&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VictorCodinhoto&theme=dark&hide_border=true&border_radius=5&locale=pt_BR)](https://git.io/streak-stats)
 
 
 ##
